@@ -1,2 +1,23 @@
-
-/* Your CSS Code here. */
+#container{
+	background-color:white;
+	width:100vw;
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+}
+.box{
+	width:100px;
+	height:100px;
+	background-color:green;
+	border:1px solid black;
+}
+#a{
+	background-color:green;
+}
+#b{
+	background-color:red;
+}
+#c{
+	background-color:blue;
+}
