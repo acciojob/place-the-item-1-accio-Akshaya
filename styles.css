@@ -1,4 +1,4 @@
-#container{
+#holder{
 	background-color:white;
 	width:100vw;
 	display:flex;
@@ -6,7 +6,7 @@
 	flex-wrap:wrap;
 	
 }
-.holder{
+.box{
 	width:100px;
 	height:100px;
 	background-color:green;
