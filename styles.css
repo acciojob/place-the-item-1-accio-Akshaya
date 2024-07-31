@@ -6,13 +6,13 @@
 	flex-wrap:wrap;
 	
 }
-.box{
+.holder{
 	width:100px;
 	height:100px;
 	background-color:green;
 	border:1px solid black;
 }
-#a{
+#a,e,f,d,g{
 	background-color:green;
 }
 #b{
