@@ -1,23 +1,20 @@
-#holder{
-	background-color:white;
-	width:100vw;
+.holder{
 	display:flex;
-	justify-content:space-between;
 	flex-wrap:wrap;
+	justify-content: space-between;
+}
+#box{
+	width:200px;
+	height:200px;
 	
 }
-.box{
-	width:100px;
-	height:100px;
+.item1{
 	background-color:green;
-	border:1px solid black;
+	
 }
-#a{
-	background-color:green;
-}
-#b{
+.item2{
 	background-color:red;
 }
-#c{
+.item3{
 	background-color:blue;
 }
